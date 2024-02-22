@@ -1,0 +1,19 @@
+{
+  "name": "moonbeam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jimbraddock: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@github.com/jimbraddock/moonbeam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimbraddock/moonbeam/issues"
+  },
+  "homepage": "https://github.com/jimbraddock/moonbeam#readme"
+}
